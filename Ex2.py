@@ -6,9 +6,9 @@ def fibonacci(n):
 
 def verifica(numero, sequencia):
     if numero in sequencia:
-        print(f"O número {numero} pertence à sequência Fibonacci.")
+        print(f"O número {numero} pertence à sequência Fibonacci")
     else:
-        print(f"O número {numero} não pertence à sequência Fibonacci.")
+        print(f"O número {numero} não pertence à sequência Fibonacci")
 
 numero = int(input("Digite um número: "))
 sequencia = fibonacci(numero)
