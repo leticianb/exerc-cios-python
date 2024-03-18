@@ -17,7 +17,7 @@ vetor = [31490.7866, 37277.9400, 37708.4303, 0.0000, 0.0000, 17934.2269, 0.0000,
 
 menor, maior, dias_acima_media, media_men = calcular(vetor)
 
-print("Média: ", media_men)
+#print("Média: ", media_men)
 print("Menor faturamento:", menor)
 print("Maior faturamento:", maior)
 print("Dias com faturamento acima da média mensal:", dias_acima_media)
